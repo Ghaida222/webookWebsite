@@ -53,6 +53,12 @@ The main class, WebookWeb, contains the following methods:
 -search(): Searches for items on the Webook platform.
 -filter(): Applies filters to search results.
 
+## Video Demonstration
+
+Here is a video demonstration of the WebookWeb automation script in action:
+
+[Watch the Automation Demo] webookWebsite/webook_automation_demo.mp4
+
 ## Author
 Ghaida Bin Muharib
    
